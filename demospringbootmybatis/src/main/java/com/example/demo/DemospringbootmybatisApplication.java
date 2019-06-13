@@ -11,6 +11,7 @@ public class DemospringbootmybatisApplication {
 	//测试git
 
 	//远程写的内容 下拉到本地时注意.
+		//本地填写 测试冲突
 	}
 
 }

@@ -8,6 +8,8 @@ public class DemospringbootmybatisApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemospringbootmybatisApplication.class, args);
+	//测试git
+	
 	}
 
 }
